@@ -1,0 +1,12 @@
+{
+  "name": "redqueen-emulator",
+  "version": "0.1.0",
+  "description": "Web + Flask full stack emulator project",
+  "scripts": {
+    "start": "npx serve public",
+    "dev": "npx serve public -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
